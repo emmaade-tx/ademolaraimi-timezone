@@ -1,0 +1,12 @@
+{
+    "name": "ademolaraimi/timezones",
+    "description": "Demo-package to show time of different timezones",
+    "authors": [
+        {
+            "name": "Ademola Raimi",
+            "email": "ademolaraimi.nig@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+}
